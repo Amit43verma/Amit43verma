@@ -58,17 +58,17 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amit43verma&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amit43verma&show_icons=true&theme=light&hide_border=true&bg_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amit43verma&theme=dark&hide_border=true&bg_color=0D1117&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amit43verma&theme=light&hide_border=true&bg_color=ffffff&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amit43verma&theme=dark&hide_border=true&background=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amit43verma&theme=light&hide_border=true&background=ffffff)
 
 
 
 ## 📈 Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amit43verma&theme=github-compact&bg_color=0D1117&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amit43verma&theme=github-compact&bg_color=ffffff&hide_border=true)
 
 
 ## 🔥 Featured Projects
